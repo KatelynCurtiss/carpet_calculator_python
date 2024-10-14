@@ -5,7 +5,7 @@
 
 # Input
 length = int(input("Enter the length of the room: " ))
-width = int(input("Enyter the width of the room in feet: "))
+width = int(input("Enter the width of the room in feet: "))
 price = float(input("Enter the price per square yard of carpet"))
 SALES_TAX_RATE = 0.06
 
