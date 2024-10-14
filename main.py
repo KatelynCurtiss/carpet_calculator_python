@@ -17,4 +17,6 @@ print(f"Your subtotal is" + str(subtotal)+ ".")
 
 sales_tax = salestax_rate
 
-grandtotal = subtotal
+grandtotal = subtotal + sales_tax
+print(f"The sales tax is" + str(sales_tax) + ".")
+print(f"Your grand total is" + str(grandtotal) + ".")
